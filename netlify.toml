@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/"
+  to = "https://aa-intergroup.org/meetings"
+  status = 302
+  force = true
+  headers = {X-From = "Netlify"}
